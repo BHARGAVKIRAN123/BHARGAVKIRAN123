@@ -36,7 +36,7 @@ Predicts customer churn with high accuracy, helping businesses retain clients.
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/bhargavkiran-chukka-830b7a28)    
+- [LinkedIn](www.linkedin.com/in/bhargavkiran-chukka-830b7a280)    
 - 📧 Email:kiranbhargavchukka@gmail.com  
 
 ---
